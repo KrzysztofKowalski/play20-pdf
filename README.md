@@ -1,4 +1,4 @@
-Play 2.0 PDF module
+Play 2.0.4 PDF module
 ===================
 
 A simple module for generating PDF files from HTML templates.
